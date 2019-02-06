@@ -1,0 +1,17 @@
+.has-dropdown{
+
+    .navbar-dropdown{
+        box-shadow: 0 0 1px rgba(57, 70, 78, .15), 0 20px 55px -8px rgba(57, 70, 78, .25);
+        left: auto;
+        right: 0;
+    }
+
+}
+
+.navbar {
+    min-height: 4.2rem;
+}
+
+.navbar-item img {
+    max-height: 2.8rem;
+}
